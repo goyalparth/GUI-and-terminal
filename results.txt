@@ -1,0 +1,4 @@
+Distance covered by car A is 152.0 m
+Distance covered by car B is 290.0 m
+Distance covered by car C is 197.6 m
+
